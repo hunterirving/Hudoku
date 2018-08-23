@@ -29,13 +29,13 @@ Boards with no solutions are automatically thrown out, but you might consider sa
 
 <img src="">
 
-## Big Data
+## BIG DATA
 
 What percentage of randomly generated Hudokus have at least one solution?
 
-What is the average length of the shortest solution to a rand-gen Hudoku?
+What is the average length of a randomly generated Hudoku's shortest solution?
 
-What is the longest possible length of a Hudoku solution?
+What is the theoretical "longest shortest solution" a Hudoku could possess?
 
 Scholars have debated these topics for years, but until now we just had to wonder.
 
@@ -43,7 +43,7 @@ Use __HudokuTest.py__ to generate a number of boards that suits your fancy and/o
 
 <img src="https://github.com/hunterirving/Hudoku/blob/master/testresults.png">
 
-On a dual-core craptop, 5000 trials took just a few minutes.
+On a dual-core craptop, 5000 trials took me just a few minutes.
 
 ## Final Thoughts
 
