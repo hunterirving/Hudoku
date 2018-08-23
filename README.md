@@ -31,11 +31,11 @@ Boards with no solutions are automatically thrown out, but you might consider sa
 
 ## BIG DATA
 
-What percentage of randomly generated Hudokus have at least one solution?
+> _What percentage of randomly generated Hudokus have at least one solution?_
 
-What is the average length of a randomly generated Hudoku's shortest solution?
+> _What is the average length of a randomly generated Hudoku's shortest solution?_
 
-What is the theoretical "longest shortest solution" a Hudoku could possess?
+> _What is the theoretical "longest shortest solution" a Hudoku could possess?_
 
 Scholars have debated these topics for years, but until now we just had to wonder.
 
