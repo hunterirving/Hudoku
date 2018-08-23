@@ -48,9 +48,10 @@ On a dual-core craptop, 5000 trials took just a few minutes.
 ## Final Thoughts
 
 - Any path that travels from the start square to the end square is "a" solution
-- ...But a board's shortest solution is its "best" solution
+- ...But a board's _shortest_ solution is its "best" solution
 - There can be multiple "best" solutions for a given board (if multiple solutions of the same (shortest) length exist)
-- "Best" solutions are more likely to be composed of moves to the right and down and less likely to contain moves to the left and up (as these moves take you further from your final destination)
+- "Best" solutions are more likely to contain moves to the right and down and less likely to contain moves to the left and up (as these moves take you further from your final destination)
 - The theoretical "longest possible shortest solution" would involve a board of all 1's (if any higher numbers were present they would save steps and be sought out by the algorithm)
 - The chances of such a board occuring randomly are smaller than your chances of winning the lottery
+
 - The future of Hudoku is 3D (cubic) Hudoku
