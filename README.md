@@ -39,7 +39,7 @@ Boards with no solutions are automatically thrown out, but you might consider sa
 
 Scholars have debated these topics for years, but until now we just had to wonder.
 
-Use __HudokuTest.py__ to generate a number of boards that suits your fancy and/or available time.
+Use __HudokuTest.py__ to generate a number of boards that suits your fancy and/or available time, then sink your teeth into some juicy data.
 
 <img src="https://github.com/hunterirving/Hudoku/blob/master/testresults.png">
 
