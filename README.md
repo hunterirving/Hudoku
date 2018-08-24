@@ -52,7 +52,7 @@ On a dual-core craptop, 5000 trials took me just a few minutes.
 - There may be multiple "best" solutions for a given board (if multiple solutions of the same (shortest) length exist)
 - "Best" solutions are more likely to contain moves to the right and down (as these moves bring you closer to your final destination), but occasionally it is advantageous to move left or up (usually to land on a 3 or 4)
 - The theoretical "shortest possible shortest solution" would be of length 10, and would be a path comprised entirely of 4's
-- The theoretical "longest possible shortest solution"  would be of length 40, and would be a path comprised entirely of 1's (if any higher numbers were present they would save steps and be sought out by __HudokuGen__'s algorithm)
+- The theoretical "longest possible shortest solution"  would be of length 40, and would be a path comprised entirely of 1's
 - The chances of such a board occuring randomly are smaller than your chances of winning the lottery
 
 
