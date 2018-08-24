@@ -11,7 +11,7 @@ Each Hudoku board is a 21 x 21 grid filled with the numbers 1 through 4.
 
 <img src="https://github.com/hunterirving/Hudoku/blob/master/hudokuboard.png">
 
-Your goal is to travel from the upper-left corner to the bottom-right corner, moving in any of the four orthagonal directions (up, down, left, right) in increments equal to the number at your feet.
+Your goal is to travel from the upper-left corner to the bottom-right corner, moving in any of the four orthogonal directions (up, down, left, right) in increments equal to the number at your feet.
 
 <img src="https://github.com/hunterirving/Hudoku/blob/master/solvedhudokuboard.png">
 
