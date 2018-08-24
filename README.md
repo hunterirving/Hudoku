@@ -48,7 +48,7 @@ On a dual-core craptop, 5000 trials took me just a few minutes.
 ## Final Thoughts
 
 - Any path that travels from the start square to the end square is "a" solution
-- ...But a board's "best" solution is its _shortest_ solution
+- ...but a board's "best" solution is its _shortest_ solution
 - There may be multiple "best" solutions for a given board (if multiple solutions of the same (shortest) length exist)
 - "Best" solutions are more likely to contain moves to the right and down (as these moves bring you closer to your final destination), but occasionally it is advantageous to move left or up (usually to land on a 3 or 4)
 - The theoretical "shortest possible shortest solution" would be of length 10, and would be a path comprised entirely of 4's
