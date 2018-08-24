@@ -33,7 +33,7 @@ Boards with no solutions are automatically thrown out, but you might consider sa
 
 > _What percentage of randomly generated Hudokus have at least one solution?_
 
-> _What is the average length of a randomly generated Hudoku's shortest solution?_
+> _What is the average length of the shortest solution to a randomly generated Hudoku?_
 
 > _What is the theoretical "longest shortest solution" a Hudoku could possess?_
 
