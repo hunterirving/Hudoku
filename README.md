@@ -15,7 +15,7 @@ Your goal is to travel from the upper-left corner to the bottom-right corner, mo
 
 <img src="https://github.com/hunterirving/Hudoku/blob/master/solvedhudokuboard.png">
 
-_"Now that's fun."_ - Hunter Irving, Hudoku Enthusiast
+___"Now that's fun."___ - Hunter Irving, Hudoku Enthusiast
 
 ## Bet I Could Automate That
 
