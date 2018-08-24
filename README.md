@@ -9,7 +9,7 @@ But here's Hudoku to tide you over until then.
 
 Each Hudoku board is a 21 x 21 grid filled with the numbers 1 through 4.
 
-<img src="">
+<img src="https://github.com/hunterirving/Hudoku/blob/master/hudokuboard.png">
 
 Your goal is to travel from the upper-left corner to the bottom-right corner, moving in any of the four orthagonal directions (up, down, left, right) in increments equal to the number at your feet.
 
@@ -23,7 +23,7 @@ Say you're the Editor in Chief for a struggling local newspaper, and you've dete
 
 You can use __HudokuGen.py__ to randomly generate "easy", "medium", and "hard" Hudoku boards and find their shortest possible solution using a breadth-first search algorithm.
 
-<img src="">
+<img src="https://github.com/hunterirving/Hudoku/blob/master/hudokusolution.png">
 
 Boards with no solutions are automatically thrown out, but you might consider saving one to print in your April Fool's Day issue.
 
