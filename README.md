@@ -27,7 +27,7 @@ You can use __HudokuGen.py__ to randomly generate "easy", "medium", and "hard" H
 
 Boards with no solutions are automatically thrown out, but you might consider saving one to print in your April Fool's Day issue.
 
-<img src="">
+<img src="https://github.com/hunterirving/Hudoku/blob/master/aprilfools.png">
 
 ## BIG DATA
 
