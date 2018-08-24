@@ -21,7 +21,7 @@ ___"Now that's fun."___ - Hunter Irving, Hudoku Enthusiast
 
 Say you're the Editor in Chief for a struggling local newspaper, and you've determined the cause of your waning viewership to be "Sudoku Fatigue".
 
-You can use __HudokuGen.py__ to randomly generate "easy", "medium", and "hard" Hudoku boards and find their shortest possible solution using a breadth-first search algorithm.
+You can use __HudokuGen.py__ to randomly generate "easy", "medium", and "hard" _Hudoku_ boards and find their shortest possible solution using a breadth-first search algorithm.
 
 <img src="https://github.com/hunterirving/Hudoku/blob/master/hudokusolution.png">
 
