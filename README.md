@@ -17,6 +17,8 @@ Your goal is to travel from the upper-left corner to the bottom-right corner, mo
 
 ___"Now that's fun."___ - Hunter Irving, Hudoku Enthusiast
 
+<br>
+
 ## Bet I Could Automate That
 
 Say you're the Editor in Chief for a struggling local newspaper, and you've determined the cause of your waning viewership to be "Sudoku Fatigue".
